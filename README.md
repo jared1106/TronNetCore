@@ -2,6 +2,8 @@
 TronNetCore is a SDK that includes libraries for working with TRON, 
 TronNetCore makes it easy to build TRON applications with .net.
 
+TronNetCore 是波场主链 .NET Core SDK，方便快捷签名、广播交易
+
 ## Get Started
 ### NuGet 
 
