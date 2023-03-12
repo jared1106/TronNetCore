@@ -102,7 +102,6 @@ namespace TronNetTest
 }
 
 ```
-also see: https://github.com/stoway/TronNet/blob/main/test/TronNet.Test/TransactionSignTest.cs
 
 #### Sample 3: Contract TRC20 Transfer (USDT)
 ```c#
