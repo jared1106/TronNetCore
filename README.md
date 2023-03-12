@@ -1,4 +1,4 @@
-# TronNet
+# TronNetCore
 TronNet is a SDK that includes libraries for working with TRON, TronNet makes it easy to build TRON applications with .net.
 
 ## Get Started
