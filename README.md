@@ -132,7 +132,7 @@ namespace TronNetTest
             var contractAddress = "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"; //USDT Contract Address
             var to = "TGehVcNhud84JDCGrNHKVz9jEAVKUpbuiv";
             var amount = 10; //USDT Amount
-            var feeAmount = 5 * 1000000L;
+            var feeAmount = 30 * 1000000L;
             var contractClient = _contractClientFactory.CreateClient(ContractProtocol.TRC20);
 
             var result = await contractClient.TransferAsync(contractAddress, account, to, amount, string.Empty, feeAmount);
