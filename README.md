@@ -7,7 +7,7 @@ TronNet is a SDK that includes libraries for working with TRON, TronNet makes it
 You can run the following command to install the `TronNet` in your project.
 
 ```
-PM> Install-Package TronNet
+PM> Install-Package TronNetCore
 ```
 
 ### Configuration
