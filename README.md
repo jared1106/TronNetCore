@@ -1,5 +1,6 @@
 # TronNetCore
-TronNet is a SDK that includes libraries for working with TRON, TronNet makes it easy to build TRON applications with .net.
+TronNetCore is a SDK that includes libraries for working with TRON, 
+TronNetCore makes it easy to build TRON applications with .net.
 
 ## Get Started
 ### NuGet 
@@ -12,7 +13,7 @@ PM> Install-Package TronNetCore
 
 ### Configuration
 
-First,You need to config `TronNet` in your `Startup.cs`:
+First,You need to config `TronNetCore` in your `Startup.cs`:
 ```c#
 ......
 using StowayNet;
